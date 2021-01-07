@@ -4,8 +4,8 @@
 [![Discord Badge](https://img.shields.io/badge/-Discord-343945?style=flat-square&logo=Discord&logoColor=white)](https://discord.com) 
 
 
-- 🔭 I’m currently working on NodeJS, MongoDB, ReactJS, Docker
-- 🌱 I’m currently learning Docker, GraphQL, Computer Architectures  
+- 🔭 I’m currently working on NodeJS, MongoDB, ReactJS, Docker e GraphQL
+- 🌱 I’m currently learning Docker, Kubernetes, Computer Architectures  
 - 👯 I’m looking to collaborate on Open-source Projects
 - 💬 Ask me about cars, code, food, new technologies
 - ⚡ Fun fact: I love Coffee, Rock 'n' Roll and I'm afraid of a ghost
